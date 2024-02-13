@@ -18,6 +18,10 @@ const MyApp: AppType<{ session: Session | null }> = ({
       <Head>
         <title>Twitter clone</title>
         <meta name="description" content="This is a twitter clone" />
+        <meta
+          name="google-site-verification"
+          content="wN1J2ZvGt0jTLYQE-R8D5uwnEFKUIS3viaP3nIG7t8I"
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="container mx-auto flex items-start sm:pr-4">
